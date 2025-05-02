@@ -126,6 +126,8 @@ Return the correct list size in getItemCount()
 ✅ Updated ExpenseAdapter with missing implementations:
 Assuming you have a layout file named activity_main.xml with TextViews with IDs tv_Category, tv_Amount, and tv_Date,
 there is fixed and complete version:
+
+
 package com.example.prog7313_poe2st10049585;
 
 import android.view.LayoutInflater;
