@@ -204,3 +204,6 @@ public class ExpenseAdapter extends RecyclerView.Adapter<ExpenseAdapter.ViewHold
 My Expense class has public fields or getters for category, amount, and date.
 
 My activity_main.xml layout file exists and uses the same IDs (tv_Category, tv_Amount, tv_Date).
+
+Reference
+OpenAI. 2024. Chat-GPT (Version 3.5). [Large language model]. Available at: https://chat.openai.com/ [Accessed: 2 May 2025]
